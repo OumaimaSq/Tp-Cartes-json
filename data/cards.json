@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "React Native",
+    "description": "Apprends à créer des apps mobiles cross-platform.",
+    "image": "https://reactnative.dev/img/tiny_logo.png",
+    "url": "https://reactnative.dev/"
+  },
+  {
+    "id": "2",
+    "title": "Expo",
+    "description": "Démarre vite sans Android Studio ni Xcode.",
+    "image": "https://avatars.githubusercontent.com/u/12504344?s=200&v=4",
+    "url": "https://expo.dev/"
+  },
+  {
+    "id": "3",
+    "title": "Flexbox",
+    "description": "Mets en page tes vues facilement.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Vector-based_example.svg",
+    "url": "https://reactnative.dev/docs/flexbox"
+  },
+  {
+    "id": "4",
+    "title": "Navigation",
+    "description": "Apprends à naviguer entre les écrans.",
+    "image": "https://reactnavigation.org/img/spiro.svg",
+    "url": "https://reactnavigation.org/"
+  },
+  {
+    "id": "5",
+    "title": "Hooks",
+    "description": "Comprends useState et useEffect pour gérer l'état.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+    "url": "https://react.dev/reference/react"
+  },
+  {
+    "id": "6",
+    "title": "Animations",
+    "description": "Rends ton app vivante avec Reanimated.",
+    "image": "https://reactnative.dev/img/header_logo.svg",
+    "url": "https://docs.swmansion.com/react-native-reanimated/"
+  }
+]
